@@ -19,11 +19,11 @@
 
 | Project | What it does |
 | --- | --- |
-| [NotchKo](https://github.com/surveiLance/NotchKo) | A Dynamic Island for the MacBook notch, with an event-driven architecture that stays at 0% CPU when idle. |
 | [Kalinga](https://lancecamacho.vercel.app/projects/kalinga) | A teacher-support prototype designed for Filipino multigrade classrooms. |
 | [MAGS](https://lancecamacho.vercel.app/projects/mags) | A course-specific study hub with practice tests and multiplayer quiz battles, used by classmates. |
 | [LancePad](https://lancecamacho.vercel.app/projects/lancepad) | An AI-powered study workspace in development. |
-| Congressional district office tool | Developed during my GIP internship to support internal administrative workflows. Access and implementation details remain private. |
+| Congressional district office tool | Built during my GIP internship to streamline internal administrative workflows, consolidating and validating 13,200+ historical applications from 23 legacy Excel files. System access and sensitive details remain private. |
+| [NotchKo](https://github.com/surveiLance/NotchKo) | A Dynamic Island for the MacBook notch, with an event-driven architecture that stays at 0% CPU when idle. |
 
 ## Tools I build with
 
