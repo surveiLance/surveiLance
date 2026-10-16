@@ -5,8 +5,6 @@
 📍 Antipolo City, Philippines  
 🌱 Interested in thoughtful interfaces, efficient software, and civic tech.
 
-[Explore my portfolio →](https://lancecamacho.vercel.app) · [Get in touch →](https://lancecamacho.vercel.app/contact)
-
 ## A little about me
 
 - I build across **full-stack web development and native macOS apps**.
